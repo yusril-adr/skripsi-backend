@@ -35,10 +35,6 @@ const ReviewModel = sequelize.define(process.env.PGTABLE, {
     type: DataTypes.STRING,
     allowNull: false,
   },
-  feedback: {
-    type: DataTypes.STRING,
-    allowNull: false,
-  },
 }, {
   freezeTableName: true,
   timestamps: false,
