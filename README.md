@@ -119,7 +119,6 @@ backend/
 ├── package.json       # Dependencies and scripts
 ├── .env.example       # Environment variables template
 ├── .env               # Production environment (not tracked)
-├── .env.dev           # Development environment (not tracked)
 └── README.md          # This file
 ```
 
