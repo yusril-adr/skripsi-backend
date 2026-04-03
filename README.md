@@ -37,9 +37,7 @@ npm install
 
 1. Copy the environment template:
 ```bash
-cp .env.example .env       # for production
-# or
-cp .env.example .env.dev   # for development
+cp .env.example .env
 ```
 
 2. Configure the required environment variables:
